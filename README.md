@@ -144,8 +144,3 @@ User (Cursor/Claude) ──► MCP Client ──► stdio ──► MCP Server (
 - [ ] Add temperature unit options (Celsius / Fahrenheit)
 - [ ] Improve error handling and logging
 
----
-
-## 📄 License
-
-MIT — Free to use, modify, and distribute.
